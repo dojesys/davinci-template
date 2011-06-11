@@ -39,8 +39,9 @@ group :test do
   gem 'database_cleaner'
   gem 'factory_girl_rails'
  
-  gem 'rb-fsevent'
-  gem 'growl'
+  # Solo para Mac OS
+  # gem 'rb-fsevent'
+  # gem 'growl'
 
   gem 'guard-rspec'
   gem 'guard-spork'
