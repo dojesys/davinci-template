@@ -1,0 +1,12 @@
+== davinci-template
+
+Template básico para aplicaciones davinci-app
+
+Contiene:
+
+1. Rails 3.1.0.rc4
+2. Devise
+3. Spork / Cucumber / RSpec / factory_girls / Jasmine
+4. Guard
+5. Features y specs para Devise
+6. Layout de nifty-generators
